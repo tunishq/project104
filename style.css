@@ -1,0 +1,11 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 28px;
+    line-height: 1.42857143;
+    color: yellow;
+    background-color: #BBD686;
+}
+#list
+{
+    padding-top: 75px;
+}
